@@ -9,7 +9,7 @@ ssh 登录到远程主机
 设置全局环境变量  
 `$ export ORACLE_HOME=/u01/app/oracle/product/10.2.0`  
   
-`ls`  
+`ls -a`  
 `pwd`  
 `cd`  
   
