@@ -1,2 +1,2 @@
 ### Delete from left to right
-Control + D
+`Control` + `D`
